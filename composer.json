@@ -1,13 +1,17 @@
 {
-  "name": "kopokopo/k2-connect-php",
+  "name": "kemboielvis/k2-connect-php",
   "description": "Kopokopo's php SDK",
-  "homepage": "https://github.com/kopokopo/k2-connect-php",
+  "homepage": "https://github.com/kemboi22/k2-connect-php",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
       "name": "Nicollet Njora",
       "email": "nicollet.njora05@gmail.com"
+    },
+    {
+      "name": "Elvis Kemboi",
+      "email": "kemboielvis22@gmail.com"
     }
   ],
   "autoload": {
